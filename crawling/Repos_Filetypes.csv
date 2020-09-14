@@ -1,0 +1,907 @@
+file types
+.sample .idx .md .pack .py
+.crt .xml .wixproj .key .yml .txt .bat .pdf .ps1 .map .py .gif .css .Master .adoc .php .feature .less .swf .wxs .eot .woff2 .svg .pack .v2 .ini .yaml .html .pot .sqlproj .refactorlog .tpl .cs .json .gz .png .config .csproj .md .PNG .jar .ttf .builder .java .woff .ico .otf .jpg .sample .properties .js .sh .jsp .xap .idx .sql .aspx .ascx .swp .scss .sln .v1 .asax
+.sample .rb .j2 .odp .yml .sh .cfg .lesson1 .idx .pdf .md .tex .pack .ini .yaml
+.properties .sample .form .idx .png .md .pack .java .gif .MF
+.pdf .py .gif .arff .mp3 .pptx .drawio .xlsx .pack .docx .data .ipynb .JPG .csv .png .md .names .jpg .wav .sample .idx .jpeg .mp4
+.sample .ipynb .cfg .txt .csv .pdf .md .xlsx .xls .py .gml .pyc
+.jpg .blend .docx .sample .sty .psd .txt .bib .idx .pdf .png .md .tex .pack .blend1
+.jpg .sample .ipynb .txt .idx .md .pack
+.jpg .sample .ipynb .js .css .json .pdf .png .pkl .svg .md .idx .pack .py .gif .blp .html
+.sample .docx .txt .rtf .pptx .pdf .md .java
+.jpg .sample .yml .idx .png .toml .scss .md .pack .html
+.sample .csl .bib .idx .csv .Rmd .md .pack
+.odg .sample .jpg .xml .service .yml .sh .idx .png .svg .md .timer .pack .mkv
+.sample .R .csv .pdf .md .html
+.sample .txt .json .idx .md .pack .clj
+.sample .idx .md .pack
+.jpg .sample .js .eot .json .idx .png .svg .md .scss .pack .css .gif .ttf .woff .html
+.sample .md .java
+.yml .txt .map .zip .css .rdx .eot .woff2 .svg .pack .html .rdb .csv .png .Rmd .md .ttf .woff .jpg .sample .js .RData .idx
+.jpg .sample .yml .bib .js .txt .eot .woff2 .idx .png .Rmd .md .svg .map .ttf .css .pack .woff .html
+.yml .pdf .map .css .rdx .eot .woff2 .svg .pack .yaml .html .rdb .csv .png .Rmd .md .ttf .woff .jpg .sample .js .RData .idx
+.sample .lock .js .snap .markdown .json .pdf .png .idx .svg .md .bmpr .css .gif .todo .pack .ico .html
+.fig  .sample .txt .m .pdf .mat .idx .md .zip .pack .markdown .p
+.sample .ipynb .txt .md
+.jpg .sample .json .idx .md .pack
+.sample .ipynb .txt .rst .png .tiff
+.sample .idx .Rproj .pdf .png .R .Rmd .md .tex .dat .zip .py .json .pper .pack .log .html
+.sample .ipynb .txt .idx .pdf .csv .md .pack .py
+.class .xml .rels .cfg .txt .manifest .map .zip .css .gif .py .prefs .rst .svg .exe .pack .yaml .html .ipynb .json .gz .png .md .7z .java .ico .testlog .properties .sample .js .sh .idx .conf
+.jpg .npy .sample .ipynb .sh .txt .npz .idx .csv .png .h5 .jpeg .md .pack .py .pyc
+.sample .xml .xsd .txt .xq .json .pdf .sql .idx .png .md .pack
+.jpg .sample .docx .txt .mat .m .pdf .idx .png .md .pack
+.sample .RData .idx .R .pdf .Rmd .md .pack .html
+.class .txt .pdf .cypher .py .zip .pptx .pack .docx .ipynb .gz .csv .jar .png .json .md .jpg .sample .properties .sh .idx .sql
+.sample .ipynb .txt .idx .csv .pdf .png .md .xlsx .xls .pack .py
+.yml .bat .pdf .gradle .groovy .xlsx .xls .pack .yaml .html .ods .ipynb .json .csv .jar .md .java .properties .sample .idx
+.sample .txt .mat .m .png .md
+.sample .docx .ipynb .txt .pdf .md .zip .py
+.sample .yml .md .scss .html
+.yml .txt .map .zip .css .gif .htm .php .eot .woff2 .svg .pack .html .lock .json .png .svn-base .md .ttf .woff .pem .jpg .sample .dist .js .idx .jpeg .scss
+.wav .sample .js .idx .md .WAV .css .zip .pack .html
+.xml .data-00000-of-00001 .txt .tfrec .pdf .meta .h5 .gif .py .xlsx .pack .index .pb .ipynb .csv .png .md .npy .pyc .jpg .sample .mat .idx
+.properties .sample .xml .idx .mf .pack .java
+.sample .js .json .idx .md .scss .pack .css .html
+.db .sample .ipynb .obj .txt .pdf .csv .sql .md .xlsx .py
+.sample .key .txt .pdf .md .py
+.sample .ipynb .txt .idx .csv .md .xlsx .pack .html
+.sample .idx .md .pack .nix
+.sample .csv .png .pdf .Rmd .md .tex .Rnw
+.sample .docx .idx .pdf .md .pack
+.jpg .sample .lock .example .js .gif .json .idx .png .pack .markdown .html
+.pdf .zip .css .gif .py .htm .axd .svg .xlsx .pack .html .ipynb .csv .png .Rmd .md .jpg .sample .js .idx .aspx .dot
+.sample .idx .png .md .pack
+.php .sample .j2 .yml .org .txt .sh .idx .pdf .png .md .pack .ltx
+.php .sample .j2 .yml .org .sh .txt .idx .pdf .png .md .pack .ltx
+.sample .c .asm .bat .idx .png .h .md .pack
+.sample .sh .txt .pcap .pdf .md
+.jpg .sample .idx .pdf .png .md .pack .mp4 .gif
+.sample .js .json .idx .md .pack
+.pem .sample .lock .yml .sh .txt .tmpl .json .pdf .idx .go .toml .md .scss .pack .golden .yaml
+.sample .xml .txt .csv .md .py .aiml
+.sample .md
+.sample .hdr .tif .Rproj .csv .bil .md .grd .vrt .gri
+.sample .tsv .xml .yml .ipynb .txt .json .csv .jsonl .idx .md .zip .pkl .py .pack
+.sample .idx .md .pack
+.db .yml .pdf .zip .css .gif .eot .crdownload .svg .pack .html .psd .json .png .md .ttf .woff .ico .otf .jpg .sample .js .idx .scss
+.db .yml .pdf .map .zip .css .gif .crdownload .svg .pack .html .psd .json .png .md .ttf .ico .jpg .sample .js .idx .scss
+.properties .sample .bat .idx .jar .md .kt .java .gradle .pack
+.class .properties .sample .xml .c .so .idx .h .md .pack .java .py .fxml .iml
+.rb .yml .R .map .css .py .eot .woff2 .svg .pack .html .png .md .ttf .woff .ico .sample .js .sh .idx .scss
+.jpg .sample .sty .js .org .css .json .pdf .png .R .svg .csv .tex .idx .zip .pack .html .xmind
+.sample .sty .org .idx .pdf .tex .pack
+.gcode .sample .jpg .idx .png .scad .md .pack .stl
+.sample .idx .pdf .md .pack
+.sample .odp .pdf .png .md
+.sample .data .ipynb .idx .csv .md .pack
+.sample .tf .dist .sh .idx .pdf .md .pub .pack
+.properties .sample .bat .info .idx .png .jar .md .pack .java .gradle .kt
+.jpg .sample .key .yml .txt .pdf .md .toml .py
+.sample .idx .csv .pdf .R .Rmd .md .pack .html
+.sample .cd .cs .config .idx .csproj .md .sln .pack
+.sample .yml .idx .png .md .scss .pack .html
+.sample .xml .idx .pdf .md .pack .java .iml
+.properties .sample .xml .ser .bat .pro .json .pdf .jar .png .idx .md .apk .kt .java .gradle .pack
+.sample .unity .asset .controller .cs .txt .idx .pdf .mat .png .meta .md .tex .pack .prefab
+.fd .sample .c .sh .idx .pdf .h .md .tex .pack
+.sample .idx .pdf .md .tex .pack
+.jpg .sample .frag .cpp .txt .idx .pdf .png .h .md .pack .hpp .vert
+.sample .txt .idx .pdf .md .tex .pack
+.sample .c .idx .pdf .md .tex .pack
+.sample .cpp .pdf .md
+.jpg .sample .lock .js .json .idx .png .md .PNG .pack .css .ico .html
+.sample .sty .cfg .cpp .txt .asm .idx .pdf .png .snippets .md .tex .pack .py
+.sample .hpp .cxx .sty .cpp .cfg .txt .asm .idx .pdf .png .snippets .md .tex .pack .py .cmake
+.sample .docx .train .data .psd .txt .pptx .pdf .idx .csv .md .xlsx .xls .pack .names
+.sample .cpp .idx .md .pack
+.sample .ipynb .txt .idx .png .md .pack .py
+.orig .sample .yml .sh .txt .json .md .py .yaml
+.sample .js .json .idx .png .md .pack .css .html
+.sample .ipynb .sh .txt .py .pptx .R .png .pdf .Rmd .md .PNG .TXT .idx .css .pack .html
+.sample .ipynb .pptx .pdf .png .idx .svg .md .pack .py .pyc
+.txt .pdf .h .zip .py .ppt .odg .cpp .svg .pack .svgz .prf .d .sty .odp .bib .csv .png .md .java .jpg .sample .sh .m .idx .tex .d-names
+.sample .ipynb .txt .md .py
+.jpg .sample .pdf .png .md
+.jpg .sample .JPG .ipynb .idx .png .jpeg .md .PNG .pack .html
+.jpg .eps .sample .docx .sty .g .txt .idx .png .md .tex .pack .py
+.o3618782 .o3618787 .c .cc .gcc .xml .txt .so .e3618734 .a .o3638376 .pdf .o3638214 .dat .h .out .o3638131 .f90 .zip .py .gnu .nvcc2 .e3620628 .bak .e3618788 .e3618727 .1_QFVeeoiOyH5 .eps .o3618727 .suncc .e3618773 .frameinfo .studio .e3619274 .xlsx .pack .o3618773 .err .save .log .nvcc .o3619274 .o3620027 .o3620628 .o3618762 .e3641329 .png .e3681514 .cu_old .md .o3618734 .e3638376 .o3638139 .e3638139 .e3638131 .e3618762 .sample .o_bkp .jpg .include .g++ .so_QoIRzKtiYk4 .sh .so_aP_8v-wjLK7 .o3641329 .m .o3681514 .idx .swp .e3618782 .cu .assign1 .o3611969 .o3619246 .clean .e3619246 .o3618788 .e3611969 .e3638214 .c_old .e3620027
+.jpg .sample .idx .pdf .png .md .ppt .pack
+.sample .svg .md
+.sample .cpp .pro .h .md
+.sample .js .json .md .gif .yaml .html
+.sample .idx .pdf .png .md .tex .pack
+.yml .txt .pdf .dat .py .gif .css .pptx .pack .html .ipynb .csv .png .md .jpg .sample .js .idx .toml .mp4 .pdf_generator .jl
+.sample .txt .pptx .R .png .pdf .sql .md .csv .idx .pack .py .pyc .html
+.yml .txt .pdf .dat .gif .bed .gbk .svg .pack .yaml .html .fasta .fai .tab .fa .gz .csv .png .md .jpg .gff3 .tsv .sample .js .idx .jpeg .tbi
+.xml .txt .css .less .eot .woff2 .svg .pack .html .png .Rmd .md .ttf .woff .otf .jpg .sample .js .idx .scss
+.narrowPeak .sample .yml .idx .pdf .csv .bed .Rmd .md .R .xls .pack .png .r .html
+.jpg .sample .Rmd~ .idx .yml .js .json .pdf .csv .png .Rmd .md .tex .jpeg .zip .css .pack .html
+.Rmd~ .yml .txt .R .pdf .map .bai .css .gif .py .summary .featureCounts .eot .woff2 .pptx .skm .svg .pack .yaml .html .bib .gz .csv .png .json .Rmd .md .ttf .bam .woff .jpg .sample .gtf .js .RData .Rproj .idx
+.jpg .sample .idx .pdf .svg .md .ndbx .pack .xcf .sla
+.sample .idx .pdf .md .pack
+.sample .txt .idx .pdf .svg .md .ndbx .pack .gif .sla
+.jpg .sample .pdf .svg .md .ndbx .autosave .sla
+.txt .R .css .rdx .gif .pper .xlsx .pack .html .docx .rdb .csv .png .ai .Rmd .md .sample .tsv .RData .idx .Rproj
+.sample .key .RData .Rproj .R .csv .rds .pdf .md .Rmd .idx .pack .html
+.sample .tsv .key .txt .RData .Rproj .R .rds .csv .pdf .md .xlsx .history
+.sample .key .Rproj .R .csv .pptx .pdf .md
+.sample .docx .key .txt .Rproj .pdf .R .rds .csv .md .png .idx .pack
+.sample .c .in .txt .png .h .md
+.jpg .sample .js .png .md .otf .html
+.jpg .sample .yml .ipynb .rst .idx .pdf .png .svg .pack .py
+.jpg .bmp .sample .c .lua .sh .idx .png .md .PNG .pack .py .ino
+.jpg .sample .idx .pdf .md .pack
+.sample .vhd .txt .idx .csv .md .pack
+.sample .idx .md .pack
+.c .yml .txt .pdf .map .css .py .gif .example .local .eot .woff2 .patch .pptx .svg .pack .html .lock .gz .csv .png .md .ttf .woff .ico .jpg .sample .js .sh .desktop .idx .tex .markdown .conf
+.sample .ipynb .R .md .2
+.sample .ipynb .idx .md .pack
+.jpg .sample .docx .edges .key .yml .ipynb .graphml .json .gz .csv .pdf .pptx .md .scss .adjlist .idx .py .pack
+.jpg .sample .xml .yml .js .txt .py .sh .rst .json .idx .png .svg .md .pack .css .gif .html
+.sample .cs .json .pdf .idx .csproj .md .sln .pack .css
+.xml .yml .txt .zip .css .gif .xlsm .eot .woff2 .svg .xlsx .pack .html .lock .ipynb .json .png .md .ttf .tgz .woff .ico .otf .jpg .sample .js .idx
+.sample .yml .pptx .pdf .md
+.sample .md .java
+.sample .txt .jar .md .java
+.sample .Rdata .R .pdf .md .html
+.sample .Rdata .R .pdf .md .html
+.wav .sample .yml .js .txt .json .pdf .idx .png .md .pack .css .ejs .html
+.sample .sh .txt .idx .png .go .md .pack .slide
+.orig .xy .c .txt .pdf .h .py .blend1 .blend .pptx .C .template .pack .odt .ipynb .water .png .md .H .sample .idx .mpg .mp4
+.source .sample .sed .sh .txt .awk .gz .json .csv .idx .pl .md .ps1 .pack .py .log
+.sample .cpp .idx .md .pack
+.sample .c .idx .h .md .pack
+.sample .txt .md .py
+.sample .docx .c .cpp .pptx .pdf .png .idx .md .out .pack
+.sample .ipynb .org .idx .png .md .pack .html
+.sample .ipynb .org .js .json .pdf .csv .png .idx .md .pack .css .py .html
+.sample .Rmd .md .html
+.sample .idx .pdf .md .pack
+.xml .yml .txt .R .pdf .prj .zip .css .rdx .Rd .Rdata .svg .pack .Rpres .html .shx .rdb .csv .png .Rmd .md .PNG .pem .jpg .sample .sbn .sbx .js .Rhistory .RData .Rproj .idx .scss .tex .shp .dbf
+.sample .idx .pdf .md .pack
+.xml .yml .env .css .gif .py .eot .title .orc .pack .html .ipynb .conf .parquet .json .csv .png .Rmd .md .ttf .woff .jpg .sample .js .sh .description .Rproj .idx .sql .scss .crc
+.tf .sample .idx .png .md .pack .ignore .tfvars
+.jpg .sample .js .md .scss .css .html
+.jpg .sample .js .yml .eot .woff2 .json .pdf .idx .png .svg .md .scss .bpmn .ttf .css .pack .woff .html
+.sample .unity .asset .txt .cs .idx .meta .md .prefab .pack
+.jpg .sample .json .nlogo .png .idx .md .tex .pack .gif .log .attr
+.sample .ipynb .idx .png .md .pack
+.xml .key .yml .txt .bat .pdf .ics .map .zip .py .gif .css .in .eot .woff2 .rst .pt .svg .pack .html .ckpt .ipynb .json .csv .png .gz .md .ttf .npy .doctree .woff .iml .pyc .md5 .sample .js .sh .idx .inv .pickle .tex
+.jpg .sample .key .sh .m .pdf .pages .svn-base .mat .md .tex .idx .pack
+.sample .md
+.sample .txt .pdf .md
+.jpg .sample .js .txt .Rproj .pdf .png .idx .Rmd .md .svg .map .pack .css .gif .html
+.sample .md .py
+.sample .md
+.sample .hpp .yml .cpp .txt .idx .md .pack .py .cmake
+.php .sample .md .css .html
+.sample .txt .pptx .pdf .idx .md .pack
+.properties .sample .xml .bat .pro .json .idx .jar .png .md .apk .pack .java .gradle
+.jpg .sample .ipynb .sh .png .md .xz .html
+.sample .md .css .html
+.sol .sample .bna .js .pdf .md .html
+.sample .yml .ipynb .txt .json .md .ini
+.sample .xml .cs .idx .pdf .png .appxmanifest .csproj .md .sln .pack .xaml
+.yml .map .css .eot .woff2 .pptx .svg .xlsx .pack .html .json .csv .png .Rmd .md .ttf .woff .jpg .sample .js .idx .toml
+.jpg .sample .docx .yml .pptx .pdf .png .csv .idx .md .pack
+.orig .key .cfg .yml .txt .bat .R .pdf .dat .map .zip .css .py .gif .tweets .cities .in .eot .rst .template .svg .pack .ini .html .tpl .lock .ipynb .gz .json .csv .png .Rmd .md .PNG .ttf .rda .woff .ico .pyc .jpg .sample .js .sh .py# .idx
+.sample .md
+.fas .sample .ipynb .gb .png .csv .md .py .fasta
+.sample .docx .txt .pptx .md .html
+.sample .js .txt .idx .md .pack .css .html
+.sample .ipynb .idx .csv .pdf .png .md .pack
+.php  .sample .js .idx .png .md .pack .css .html
+.sample .j2 .cfg .yml .pdf .md
+.sample .key .pptx .pdf
+.sample .example .txt .doc .pdf .md .tex
+.sh .sample .md
+.sample .cp .sh .idx .pdf .sge .md .f90 .pack .py
+.sample .yml .sh .txt .cpp .cls .bib .idx .pdf .png .dat .md .tex .profile .pack .hpp
+.sample .txt .idx .md .pack .py
+.jpg .sample .ipynb .txt .sqlite .geojson .m .mat .pdf .png .csv .md .idx .sql .pack .html
+.uasset .uproject .sample .idx .umap .md .pack .ini
+.sample .fastq .ipynb .fa .pdf .fq
+.jpg .sample .docx .JPG .json .pdf .png .ai .idx .md .pack .css
+.jpg .sample .c .yml .txt .idx .md .pack
+.sample .ipynb .pdf .md
+.sample .md
+.sample .cdf .idx .pdf .png .md .nb .PNG .lyx .pack .vsdx .jl
+.jpg .sample .xml .yml .sh .mdwn .json .png .pl .svg .md .idx .pack .css .dot .adoc .conf
+.yml .txt .pdf .css .gif .py .svg .pack .html .tpl .lock .ipynb .bib .psd .json .png .md .ico .pyc .jpg .sample .js .idx .jpeg .scss
+.sample .md .py
+.bmp .sample .cpp .xpm .txt .idx .rc .png .cbp .h .md .pack .ico
+.properties .jpg .mp4 .xml .sample .TTF .bat .pro .gif .idx .jar .png .md .PNG .pack .java .gradle
+.jpg .sample .ipynb .yml .idx .png .jpeg .md .xlsx .xls .pack .pkl .gif .PNG .html
+.sample .lock .ex .pdf .md .exs
+.sample .md .png
+.sample .ipynb .txt .idx .pdf .png .md .pack .py .gif
+.yml .txt .pdf .ps1 .map .zip .css .py .nuspec .less .eot .woff2 .pptx .svg .pack .html .lock .json .md .ttf .woff .pyc .sample .js .idx
+.sample .lock .json .idx .png .svg .md .tex .pack
+.sample .md .key
+.sample .png .md .html
+.sample .txt .md .java
+.sample .md .java .clj
+.sample .cc .idx .md .pack
+.sample .yml .pdf .md
+.ods .sample .c .sty .in .sh .txt .idx .pdf .png .go .res .md .tex .args .pack .java
+.sample .js .yml .txt .json .md
+.txt .pdf .css .gif .eot .woff2 .svg .pack .html .ipynb .json .png .md .ttf .npy .woff .otf .jpg .sample .js .idx .scss
+.yml .txt .pdf .css .gif .eot .woff2 .svg .pack .html .ipynb .json .csv .png .md .ttf .npy .woff .otf .jpg .sample .js .idx .jpeg .scss
+.sample .docx .plantuml .js .txt .bat .idx .pdf .sql .png .md .tex .pack .py .puml
+.sample .c .sh .idx .h .md .pack
+.jpg .sample .fsproj .config .fsx .md .sln .fs .FSharpLint
+.sample .yml .js .txt .rst .png .css .html
+.jpg .sample .ipynb .csv .pdf .md
+.sample .idx .md .pack .html
+.sample .js .css .html
+.sample .ipynb .json .csv .idx .md .pack .py .html
+.sample .go .md .tex .rs
+.jpg .sample .mp4 .js .sh .json .idx .png .svg .md .scss .pack .css .gif .html
+.jpg .sample .js .txt .idx .pdf .png .md .apk .pack .py .log
+.jpg .sample .xml .ipynb .txt .idx .csv .png .pdf .md .tex .pack .py .dot .iml .pyc
+.xml .yml .cfg .txt .pdf .dat .py .gif .odg .arff .in .pptx .svg .pack .edf .ipynb .json .csv .png .md .npy .iml .jpg .sample .sh .idx .tex
+.jpg .sample .ipynb .idx .pdf .png .md .tex .pack .tex~
+.jpg .sample .xml .yml .ipynb .gz .csv .png .pdf .idx .md .pack .css .MD .ico .html
+.sample .cfg .yml .txt .ipynb .md .py .ini .html
+.jpg .sample .txt .pdf .png .md .tex
+.jpg .sample .txt .pdf .png .md .tex
+.jpg .sample .ipynb .sh .txt .idx .pdf .R .png .md .tex .pack
+.sample .txt .gz .pdf .R .png .rds .md .tex
+.sample .cpp .txt .idx .pdf .md .tex .pack
+.sample .txt .pdf .png .md .tex
+.sample .ipynb .txt .idx .csv .md .pack
+.sample .bib .txt .awk .gz .pdf .md .tex .Rnw
+.epub .yml .pdf .css .eps .pack .html .JPG .sty .bib .gz .csv .png .Rmd .md .sample .js .sh .idx .Rproj .tex
+.sample .md .html
+.sample .md
+.sample .tsv .ipynb .txt .json .csv .idx .md .pack
+.txt .map .css .eot .svg .pack .html .cshtml .cs .config .resx .csproj .md .ttf .woff .ico .jpg .sample .js .pubxml .idx .sql .sln .asax
+.sample .ipynb .yml .idx .md .pack
+.jpg .sample .sty .cfg .txt .json .pdf .latexmk .png .idx .md .tex .pack .cmake .geo .msh .adoc
+.jpg .sample .js .json .png .md .pug
+.sample .psd .idx .pdf .png .svg .md .tex .PNG .pack .gif
+.jpg .sample .idx .md .pack .css .html
+.mp3 .sample .less .js .idx .png .svg .md .pack .css .html
+.jpg .sample .js .psd .txt .idx .png .md .zip .css .pack .html
+.mp3 .jpg .sample .js .psd .txt .idx .png .md .pack .css .html
+.cpp  .sample .md
+.properties .sample .xml .idx .mf .md .pack .java
+.sample .ipynb .txt .idx .csv .png .md .pack .fits
+.swift .xcworkspacedata .txt .bat .pdf .h .py .elf .pptx .xctimeline .pack .sads .html .sty .bib .png .md .jpg .sample .idx .tex .scala .xcplayground .bblp .xcuserstate
+.sample .md .py
+.sample .xml .info .idx .pdf .png .svg .md .ttf .py .pack
+.sample .idx .pdf .png .md .tex .pack
+.jpg .sample .lock .yml .txt .idx .pdf .jpeg .md .hs .pack .cabal .log .yaml
+.sample .md .m
+.jpg .sample .sh .txt .beamer .idx .png .md .scala .pack
+.sample .lua .json .png .md .toml .scss .html
+.jpg .sample .js .json .png .md .html
+.jpg .sample .txt .pdf .png .md .tex
+.sample .yml .idx .md .pack
+.sample .lock .js .txt .json .exe .css .html
+.class .original .yml .bat .pdf .ppt .css .gif .py .gradle .xcf .drawio .pack .build .ini .html .docx .JPG .json .jar .png .md .PNG .java .properties .jpg .sample .alpine .js .sh .idx .sum .sql .mod .Dockerfile .go .jpeg .hbs .MF
+.sample .md
+.sample .ipynb .txt .idx .pdf .md .pack
+.sample .yml .txt .rst .idx .pdf .png .dat .pack .py
+.sample .js .yml .txt .idx .pdf .png .svg .md .pack .css .tiff .html
+.sample .txt .idx .png .svg .md .pack
+.properties .jpg .sample .xml .sty .yml .sh .gz .idx .list .png .md .tex .pack .java
+.properties .sample .xml .sty .yml .sh .txt .gz .idx .list .png .md .tex .pack .java
+.jpg .sample .c .sty .yml .sh .txt .idx .list .png .h .md .tex .pack
+.jpg .sample .idx .png .Rmd .md .pack .css .gif .yaml .html
+.xml .yml .txt .pdf .zip .css .gif .vs .eot .svg .pack .html .docx .json .png .md .ttf .woff .ico .otf .icloud .jpg .sample .js .idx .scss .fs
+.sample .md .pdf
+.sample .ipynb .idx .pdf .png .md .pack
+.xml .yml .txt .py .css .gif .eot .template .pack .ini .html .json .png .md .ttf .java .woff .ico .properties .jpg .sample .js .sh .idx .scss .conf
+.ods .sample .sh .txt .idx .csv .png .ods# .pack .py .pyc
+.snm .jpg .sample .ini .idx .nav .toc .gz .pdf .png .jpeg .out .tex .md .MKV .avi .aux .pack .log
+.sample .yml .json .idx .svg .ps1 .md .pack .css .html
+.csl .yml .R .zip .css .gif .svg .pack .yaml .ipynb .bib .csv .png .Rmd .md .jpg .sample .idx .Rproj .jpeg
+.sample .bib .txt .gz .R .pdf .csv .md .tex .py .pyc
+.sample .md
+.sample .md .pdf
+.sample .abc .txt .pdf .png .md
+.jpg .sample .yml .rst .idx .pdf .png .md .zip .py .pack
+.sample .txt .go .md
+.jpg .sample .mat .m .md
+.sample .idx .pdf .md .pack .fasta
+.sample .docx .ipynb .txt .pptx .csv .pdf .idx .Rmd .md .xlsx .zip .pack
+.txt .zip .py .gif .arff .edgelist .xlsx .pack .JPG .ipynb .json .csv .png .gz .md .bz2 .jpg .sample .tsv .idx
+.sample .yml .js .txt .json .idx .md .pack .css .ts .ico .html
+.db .sample .cs .resx .config .pdf .png .csproj .md .sln .aspx .pubxml .idx .pack .settings .json
+.jpg .sample .md
+.sample .pdf .prj .Rmd .grd .shx .gri .shp .dbf .html
+.sample .m .idx .md .pack
+.jpg .sample .txt .bat .idx .png .md .pack .java .py
+.jpg .sample .js .yml .idx .png .svg .md .pack .css .html
+.jpg .sample .js .md .css .ico .html
+.sample .bat .rst .md .py
+.rb .xml .c .key .yml .txt .dat .out .el .gnu .css .targ .mp3 .in .eot .woff2 .patch .svg .deps .pack .log .html .lock .json .png .md .ttf .bnf .woff .opts .1 .sample .js .sh .hbs .0 .idx .coffee .ejs .conf
+.class .sample .xml .jsp .txt .prefs .idx .container .md .component .java .MF .pack .html .name
+.sample .c .sty .fbs .bib .org .sh .idx .png .svg .md .tex .pack .java .py
+.sample .md .py
+.properties .sample .xml .bat .pro .json .idx .png .md .kt .pack .gradle .iml
+.jpg .sample .asv .txt .m .pdf .png .mat .idx .md .pack .avi .py .pyc .html
+.sample .ipynb .txt .idx .pdf .csv .md .pack .py .html
+.def .sample .c .yml .sh .idx .png .md .pack .conf
+.sample .js .json .md .css .ts .ico .html
+.odg .sample .xml .yml .css .ipynb .cfg .txt .pdb .idx .pdf .png .dat .svg .md .tex .pack .py .html
+.wav .jpg .npy .sample .cpp .sh .m .pdf .csv .h5 .pptx .md .idx .pack .py
+.jpg .sample .pdf .png .jpeg .Rmd .md .gif
+.gz .sample .sh .sqlite .txt .idx .pdf .R .csv .Rmd .md .dat .xls .pack .png .gif .html
+.jpg .sample .txt .idx .pdf .jpeg .md .pack .py
+.sample .yml .ipynb .txt .npz .idx .pdf .png .md .nb .tex .pack .py
+.sample .idx .md .hs .pack .cabal
+.sample .idx .pdf .png .md .pack
+.sample .idx .csv .png .Rmd .md .pack .html
+.go .sample .md
+.sample .xml .pptx .md .java .iml
+.txt .pdf .egofeat .featnames .pkl .py .ipynb copy .feat .xlsx .pack .data .ipynb .circles .json .csv .png .md .PNG .npy .jpg .sample .edges .idx
+.sample .cpp .txt .idx .dat .h .md .pack
+.jpg .sample .JPG .txt .Rproj .R .pbs .pptx .pdf .md .Rmd .png .graffle
+.sample .yml .js .eot .woff2 .idx .pdf .png .Rmd .md .svg .map .ttf .css .pack .woff .html
+.sample .js .json .idx .md .pack .css .ts .ico .html
+.sample .md
+.cls .pdf .gif .dvi .bst .svg .pack .aux .log .html .sty .ipynb .bib .csv .png .md .bbl .jpg .sample .idx .tex .mp4
+.sample .ipynb .pptx .pdf .png .csv .md .xlsx .pkl
+.Proj .xpt .epub .db .yml .txt .org_archive .pdf .rdf .R .isi .out .zip .css .gif .tex~ .py~ .r .py .eps .dta .css~ .pptx .xlsx .xls .pyg .rtf .aux .pack .Rnw .toc .log .html .odt .docx .sav .odp .ipynb .org .json .csv .png .config .Rmd .md .PNG .ps .rds .org_archive~ .do .ttf .sas7bdat .pyc .jpg .wav .sample .cdf .html~ .js .sh .org~ .f .idx .tex .mp4 .sas
+.sample .idx .pdf .png .md .pack
+.sample .docx .PDF .doc .pptx .pdf .idx .md .zip .pack .MD
+.jpg .sample .js .json .idx .png .md .pack
+.sample .sh .txt .awk .idx .pack .py
+.properties .sample .xml .idx .md .pack .java
+.php  .sample .vue .xml .example .lock .js .txt .json .config .idx .md .scss .pack .css .ico .iml
+.jpg .sample .ipynb .txt .py .idx .csv .png .jpeg .svg .md .xlsx .h5 .pack .npy .gif .otf
+.sample .c .idx .md .pack
+.sample .js .json .mdx .md
+.sample .pdn .pptx .pdf .png .md
+.sample .txt .md .css .html
+.jpg .sample .docx .odt .JPG .yml .idx .pdf .png .csv .svg .md .holder .pack .rtf .gif .html
+.sample .ipynb .txt .pdf .csv .md
+.sample .md .ts
+.sample .lock .ts .yml .js .json .pdf .svg .md .opts
+.jpg .sample .s .c .cpp .txt .idx .pdf .cu .md .pack
+.rb .sample .yml .erb .json .idx .md .toml .pack
+.yml .smcl .txt .bat .pdf .zip .css .py .dta .rst .pack .log .html .docx .ipynb .json .png .md .PNG .do .pyc .jpg .sample .doc .idx .jpeg .tex
+.sample .idx .pdf .md .pack
+.sample .sty .sh .xsl .idx .pdf .png .pl .env .md .tex .pdf_t .pack .css .xcf .fig
+.fdx .fdt .xml .txt .pdf .dat .zip .css .frq .gif .prx .xmi .gen .tii .setup .prefs .pack .ini .index .log .html .docx .fnm .lock .tis .nrm .json .png .md .PNG .resources .java .tree .jpg .properties .sample .idx .history .version .launch
+.jpg .sample .ipynb .cfg .idx .png .md .pack .py
+.csl .yml .pdf .R .css .py .gif .woff2 .svg .xlsx .pack .html .bib .csv .rds .png .Rmd .md .woff .jpg .sample .js .sh .RData .idx .jpeg
+.yml .R .pdf .css .py .gif .svg .pack .yaml .ipynb .inc .csv .png .Rmd .md .yapf .jpg .sample .js .idx .tex
+.jpg .sample .JPG .ipynb .txt .idx .hdf .csv .pdf .jpeg .md .zip .pack
+.sample .ipynb .pptx .csv .pdf .idx .md .pack .py .gif
+.sample .cs .config .resx .raw .idx .csproj .md .sln .settings .pack .xaml
+.sample .cs .config .resx .idx .csproj .sln .settings .pack .xaml
+.sample .pde .png .md
+.sample .pdf .md .java
+.jpg .gnuplot .sample .tps .tcp .sh .bst .pdf .table .png .md .tex
+.sample .pdf .md .zip
+.sample .in .idx .md .pack .java
+.sample .txt .pdf .md .PNG
+.sample .md .pptx
+.jpg .sample .yml .ipynb .idx .csv .md .pack .py
+.sample .js .json .idx .md .pack .css .ts .ico .html
+.sample .js .json .idx .png .md .pack .css .ts .ico .html
+.sample .ipynb .yml .txt .sh .idx .md .pack .py
+.sample .md .png
+.jpg .sample .pdf .png .md .tex
+.sample .md .pdf
+.jpg .targets .sample .tpl .vscode .yml .sh .cs .pptx .json .idx .csproj .md .sln .base .props .pack .yaml
+.jpg .sample .txt .com .md .py .html
+.sample .ipynb .txt .idx .csv .pdf .md .xz .zip .pack .shp .dbf .shx
+.sample .xml .cs .idx .csv .aspx .ascx .csproj .md .pack .zip
+.rb .sample .deploy .lock .yml .sh .idx .png .md .pack .css .html .conf
+.sample .md
+.jpg .sample .ipynb .m .idx .png .md .pack .py .html
+.npy .sample .yml .ipynb .txt .js .geojson .json .idx .m .csv .svg .md .pack .css
+.yml .tif .txt .pdf .zip .css .gif .py .m4v .svg .pack .avi .swc .html .mov .ipynb .bib .psd .json .csv .png .md .jpg .sample .sh .idx .mp4 .tiff
+.yml .tif .txt .pdf .zip .css .gif .py .m4v .svg .pack .avi .swc .html .mov .ipynb .psd .json .csv .png .md .jpg .sample .sh .idx .knar .mp4 .tiff
+.jpg .sample .sty .sh .cls .idx .pdf .png .md .tex .pack
+.jpg .sample .sty .sh .cls .idx .pdf .png .pdf_tex .md .tex .svg .pack
+.txt .R .map .css .rdx .gif .less .swf .eot .woff2 .svg .pack .yaml .html .rdb .json .csv .png .Rmd .md .ttf .woff .jpg .sample .js .RData .Rproj .idx .jpeg .scss
+.jpg .sample .js .yml .eot .gif .idx .json .png .md .scss .pack .css .ttf .woff .pug .html
+.jpg .sample .ipynb .org .txt .png
+.sample .idx .pdf .png .md .pack
+.org .sample
+.sample .md
+.sample .idx .png .md .pack
+.sample .idx .png .md .pack .zip
+.sample .md .png
+.sample .md
+.jpg .sample .xml .yml .js .json .idx .png .jpeg .md .scss .pack .ts .ico .html
+.sample .js .txt .eot .json .idx .png .jpeg .svg .md .pack .css .ttf .woff .html
+.wav .sample .js .eot .txt .json .idx .png .md .scss .pack .css .ttf .woff .html
+.sample .nlogo3d .nlogo .md
+.jpg .sample .js .eot .json .idx .png .svg .md .scss .pack .css .gif .ttf .woff .html
+.jpg .sample .js .txt .idx .pdf .png .ai .md .zip .pack .gif .html
+.sample .idx .png .md .pack .java
+.sample .txt .idx .md .pack .py .log
+.rb .sample .txt .idx .png .md .pack
+.jpg .sample .pdf .md
+.jpg .sample .yml .bib .idx .pdf .png .md .tex .mpg .mp4 .gif .pack .html
+.ipynb  .sample .md
+.sample .ipynb .txt .idx .pkl .md .pack .py
+.sample .ipynb .txt .m .mat .pdf .png .idx .md .pack
+.jpg .sample .json .pdf .md
+.sample .ipynb .idx .pdf .md .pack
+.sample .ipynb .pptx .png .md .gif
+.sample .js .pdf .md .html
+.jpg .sample .gz .pdf .csv .R .Rmd .md .png .rda .html
+.rb .db .c .yml .txt .so .R .pdf .dat .zip .css .gif .Rd .ditaa .xmi .eps .cpp .o .gmt .svg .xlsx .CEL .pack .save .Rnw .log .html .fasta .odp .sty .bib .org .ipynb .gz .csv .png .ps .Rmd .md .json .tgz .R,v .ttf .rda .ico .jpg .sample .tsv .js .sh .RData .idx .Rprof .swp .tex .png-lmas .weather
+.sample .sh .sql .md .ps1
+.def .jpg .sample .cpp .bat .rst .linux .idx .png .h .md .pack .py .gif .mac
+.sample .md
+.sample .Rproj .R .png .idx .Rmd .md .pack .html
+.jpg .sample .m .png .md
+.pdb .txt .h .tlog .lastbuildstate .cpp .ilk .idb .exe .pack .user .log .vcxproj .filters .png .sample .dll .obj .idx .sln .cl .lib
+.php .jpg .sample .dms .js .RData .Rproj .R .png .csv .Rmd .md .idx .pdf .pack .css .gif .html
+.sto .sample .c .fna .sh .txt .fa .idx .csv .R .dat .md .pack .py .nh .fasta
+.sample .cpp .txt .idx .png .h .md .pack .java
+.jpg .sample .cpp .txt .idx .png .h .md .pack .java
+.jpg .sample .txt .idx .png .md .pack .java
+.jpg .sample .txt .idx .png .md .pack .java
+.sample .ipynb .idx .png .md .pack .py
+.txt .pdf .map .css .eot .woff2 .pptx .svg .pack .html .cshtml .cs .json .png .csproj .md .ttf .woff .ico .jpg .sample .js .idx .sln
+.jpg .sample .key .js .txt .idx .png .svg .md .pack .gif .html
+.sample .pptx .md .html
+.jpg .sample .lock .yml .idx .md .pack .html
+.properties .sample .xml .idx .mf .md .pack .java .java~
+.sample .md .py
+.sample .txt .idx .pdf .md .tex .pack .py
+.sample .txt .idx .pdf .png .md .tex .pack .py
+.crt .sample .dep .edu .pem .key .options .pcap .pdf .idx .md .pub .pack .startup .conf
+.sample .docx .pptx .pdf .md
+.sample .md .py
+.sample .ipynb .png .md .py
+.sample .idx .pdf .png .md .pack .py
+.jpg .sample .js .yml .eot .json .idx .png .md .scss .pack .css .gif .ttf .woff .html
+.ucls .sample .idx .pdf .png .java .md .zip .tgz .pack
+.xml .cfg .txt .pdf .kjb .py .pack .html .ipynb .bib .json .png .md .ktr .jpg .sample .properties .sh .idx .sql .tex .conf
+.odt .sample .xml .idx .pdf .jar .sql .md .tex .pack .java .zip
+.sample .idx .md .pack .java
+.sample .xml .idx .pdf .png .md .pack
+.sample .data .json .csv .pdf .R .png .md .xlsx .Rmd .idx .pack .test .names .CSV
+.sample .ipynb .idx .pdf .png .Rmd .md .pack .py .r
+.sample .txt .idx .png .jpeg .md .pack .py
+.sample .idx .png .md .pack .gif
+.sample .asm .idx .md .pack
+.sample .ipynb .txt .idx .pdf .png .pptx .svg .md .pack .py
+.yml .txt .R .pdf .py .gif .cpp .pxd .svg .pack .ipynb .inc .csv .png .Rmd .md .jpg .sample .sh .idx .cu .hpp
+.yml .map .zip .css .MD .woff2 .svg .pack .ts .html .lock .psd .json .webp .png .md .sass .woff .ico .jpg .sample .js .idx .jpeg .scss
+.sample .Rproj .R .csv .png .Rmd .md .PNG .html
+.sample .geojson .RDS .Rproj .png .Rmd .md .PNG .html
+.vue .xml .txt .map .css .gif .php .example .swf .eot .woff2 .svg .pack .html .lock .psd .json .config .png .md .ttf .woff .ico .fla .jpg .sample .js .idx .scss
+.csl .yml .R .pdf .css .rdx .dta .eot .svg .xlsx .pack .log .html .bib .rdb .json .csv .png .Rmd .md .ttf .woff .jpg .sample .js .sh .RData .Rproj .idx .tex
+.sample .md
+.sample .xml .d .mk .cpp .txt .o .prefs .idx .pgm .h .md .pack
+.xml .yml .txt .h .cpp .qml .pro .pack .user .scxml .prf .qs .png .md .qrc .jpg .sample .idx .pri .conf
+.sample .idx .pdf .md .pack
+.jpg .sample .yml .ipynb .txt .idx .csv .png .toml .md .pack .mp4 .jl
+.sample .pdf .sql .htm
+.sample .cs .config .resx .idx .csproj .sln .pack .settings
+.root .sample .ipynb .idx .pdf .png .md .pack .py .pyc
+.root .sample .ipynb .txt .pdf .png .md .gif
+.sample .md
+.sample .yml .js .files .gz .json .png .idx .svg .md .pack .htm .ico .ino .html
+.jpg .sample .js .sh .yml .eot .json .idx .png .md .scss .ttf .css .pack .woff .html
+.yml .bat .css .gif .gradle .less .eot .woff2 .svg .pack .html .json .jar .png .md .ttf .woff .otf .properties .jpg .sample .js .sh .idx .scss
+.class .sample .prefs .pdf .md .java
+.class .sample .txt .prefs .pdf .md .java
+.class .sample .txt .prefs .md .java
+.ipynb  .sample .md
+.sample .data .in .sh .mtx .awk .idx .pdf .csv .mat .md .out .pack .log
+.sample .mtx .sh .txt .idx .pdf .md .out .pack
+.jpg .gff3 .tsv .sample .ipynb .txt .sam .faa .idx .png .gbk .svg .md .pack .py .gif .gml .nwk
+.jpg .sample .yml .txt .idx .R .md .pack .html
+.sample .filter .JPG .sh .flt .bufr .pptx .idx .md .zip .mp4 .py .pack .bin
+.sample .idx .yml .Rproj .pdf .rds .csv .Rmd .md .png .R .zip .pptx .biom .rda .tax .pack .tre .tree
+.sample .fsproj .prefs .config .fsx .idx .java .md .fs .pack
+.sample .j2 .cfg .yml .txt .sh .md .html
+.sample .ipynb .txt .pos .norm .norm_pos .pl .md .zip .py
+.sample .sh .cap .csv .md .netxml
+.jpg .sample .css .py .html
+.xml .yml .txt .css .eot .kt .pack .html .json .png .md .ttf .java .woff .jpg .wav .sample .js .idx .scss
+.jpg .sample .js .md .css .html
+.jpg .sample .js .json .csv .md .css .html
+.sample .yml .ipynb .idx .csv .png .md .pack
+.sample .idx .md .pack
+.sample .data .odp .idx .pdf .md .pack .py
+.sample .yml .pdf .png .md .gif
+.jsketch .sample .js .txt .idx .tar .png .md .apk .pack .css .html
+.c .qti .txt .pdf .h .zip .py .cpp .vhd .pptx .xlsx .pack .ggb .docx .ipynb .asc .inc .mlx .qdb .md .java .do .ino .sample .qtl .qpg .asm .sh .m .idx .hpp .slx
+.txt .R .bim .pdf .est .out .bai .zip .gif .MD .pack .evec .fasta .fai .Q .png .md .vcf .P .bam .jpg .par .sample .sh .idx .jpeg .ind .eval .fam
+.odt .sample .odp .idx .pdf .md .pack .java
+.top .xml .sdf .key .mol .pdb .txt .cif .inpcrd .pdf .psf .f90 .py .h5 .gif .gro .svg .pack .html .mov .ipynb .vmd .gz .csv .png .md .oeb .smi .mol2 .jpg .sample .nc .prmtop .frcmod .dcd .idx .ffxml .pickle
+.png  .sample .md
+.jpg .sample .cpp .txt .pptx .pdf .png .idx .md .zip .pack .rar
+.sample .md .pdf
+.db .xml .c .txt .pdf .zip .py .css .gif .htm .MOOC .cpp .pptx .pt .pka .xlsx .pack .html .docx .JPG .ipynb .data .json .csv .png .pth .md .ttf .iml .otf .p .pyc .jpg .sample .brd .js .sh .sqlite .geojson .m .mat .sql .go .idx .mp4 .pkt .ino
+.sample .md .pdf
+.sample .Rproj .R .idx .md .tex .xlsx .pack .webarchive
+.sample .idx .md .tex .pack
+.sample .idx .md .pack
+.properties .sample .yml .bat .ASTTransformation .idx .pdf .jar .png .md .pack .gradle .groovy
+.properties .sample .yml .bat .idx .jar .png .md .pack .gradle .groovy
+.properties .sample .yml .bat .idx .jar .md .pack .gradle .groovy
+.xcworkspacedata .xml .c .txt .pdf .plist .sc .h .map .css .py .cpp .eot .sbt .erl .svg .g4 .pack .ui .html .MF .ipynb .swo .png .md .tl .ttf .java .woff .ico .iml .jpg .properties .sample .form .cwf .js .idx .swp .pbxproj .scala .conf
+.sample .md .c
+.sample .docx .idx .md .pack .java
+.wav .pyw .sample .txt .idx .csv .pdf .md .xlsx .pack .py
+.sample .idx .md .pack
+.sample .js .yml .eot .json .idx .png .svg .md .scss .ttf .css .pack .woff .html
+.jpg .sample .ipynb .npz .idx .png .jpeg .svg .md .pack .h5 .gif .html
+.mp3 .sample .c .txt .json .pdf .idx .md .pack
+.sample .sty .pdf .tex
+.php  .sample .yml .txt .idx .pdf .md .pack
+.crt .db .c .key .yml .cfg .txt .pack .html .lock .json .pl .md .sample .s .sh .idx .sql .go .toml .conf
+.sample .swift .resolved .key .txt .idx .pdf .md .pack .zip .stencil
+.psd1 .xml .pdb .txt .wsdl .ps1 .svcmap .map .sitemap .css .TXT .datasource .out .Master .targets .EXE .eot .nupkg .woff2 .publishproj .psm1 .svg .exe .p7s .props .user .rtf .pack .svcinfo .ts .diagram .csdl .disco .tt .cshtml .CopyComplete .asmx .msl .cs .config .csproj .md .xdt .edmx .ttf .rsp .woff .ico .sample .dll .js .cache .pubxml .idx .aspx .ssdl .XML .transform .sln ._ .svc .asax
+.tt .sample .manifest .cs .resx .config .idx .csproj .md .sln .diagram .edmx .pack .settings
+.sample .cs .config .idx .csproj .md .sln .pack
+.jpg .sample .yml .sh .idx .pdf .png .jpeg .svg .md .tex .profile .pack
+.sample .pdf .scd .md .maxpat
+.jpg .sample .c .cpp .sh .txt .o .pages .pdf .png .idx .h .md .builtin .tbl .cmd .rtf .order .pack
+.sample .js .txt .py .woff2 .idx .pdf .csv .R .Rmd .md .m .mlx .pack .css .zip .woff .html
+.sample .html .adoc
+.yml  .sample .md
+.sample .ipynb .txt .idx .png .md .pack .py
+.xml .yml .txt .pdf .zip .h5 .gif .py .pkl .service .hd5 .pptx .xlsx .xls .pack .graffle .ts .html .lock .ipynb .json .csv .png .md .tgz .pyc .jpg .sample .sh .idx .jpeg .scss .conll
+.css .gif .pp .disable .eot .woff2 .svg .pack .html .tpl .json .ldif .png .md .ttf .woff .ico .otf .jpg .sample .js .sh .idx .conf
+.yml .css .gif .pp .eot .woff2 .svg .pack .html .tpl .json .png .md .ttf .woff .ico .otf .jpg .sample .js .sh .idx
+.yml .css .gif .eot .woff2 .svg .pack .html .tpl .json .png .md .ttf .woff .ico .otf .jpg .sample .js .sh .idx
+.jpg .sample .tpl .js .json .idx .png .md .pack .css .gif .ico .html
+.sample .docx .data .ipynb .txt .doc .idx .pdf .R .csv .png .md .pack
+.xml .bzl .txt .bat .xib .pdf .plist .h .ps1 .map .zip .css .gif .gradle .targets .feature .nuspec .fsproj .pro .pptx .svg .exe .props .pack .ts .html .cshtml .xsd .lock .testrunconfig .cs .json .config .png .resx .csproj .md .webmanifest .jar .java .ico .xcscheme .jpg .vb .bup .sample .myapp .properties .js .speclog .vbproj .vsmdi .idx .m .sql .scss .sln .srprofile .cmd .fs .settings .pbxproj .tsx .asax
+.sample .js .json .md .ttf .css .tsx .tmx .ts
+.odg .sample .mp4 .ipynb .sh .css .rst .idx .pdf .png .avi .svg .md .tex .wmv .flv .py .pack
+.sample .c .txt .pptx .pdf .md .PNG .py
+.sample .cs .config .csproj .md .sln .rar
+.jpg .sample .js .cpp .eot .idx .png .md .scss .ttf .css .pack .woff .html
+.properties .sample .xml .pdf .jar .md .cmd .java
+.jmd  .sample .yml .md .toml .html .jl
+.sample .sh .txt .gz .R .pdf .idx .panel .md .out .Rmd .pack .png .9 .html
+.loc .pca .c .txt .pos .snp .info .pdf .bim .pheno .h .R .hwe_reduced .map .bak .Qfilemap .id .ind2pop .PACKEDPED .chisq .example .hwe .eigs .GC .bed .PED .ANCESTRYMAP .pack .ancestrymapgeno .log .EIGENSTRAT .html .evec .snpeigs .perl .eigenstratgeno .Q .pedsnp .packedancestrymap .org .bib .ps .jar .png .Rmd .md .ped .packedancestrymapgeno .par .sample .PACKEDANCESTRYMAP .idx .xtxt .ind .geno .pedind .eval .model .fam
+.html .jpg .sample .gens .yml .haps .txt .sh .strand .png .Rmd .md .exclusions .map .legend .samples
+.sample .md .pdf
+.c .txt .pdf .R .dat .f90 .py .eps .pro .nb .pack .csv .png .sample .s .f .idx .m .kml .tex
+.jpg .sample .swift .xcworkspacedata .txt .pdf .png .plist .md .xcplayground .xcsettings .xcuserstate
+.sample .idx .md .pack
+.sample .txt .md
+.yml .txt .pdf .tfrecord .py .gif .cpp .pt .pack .yaml .tokens .ipynb .parquet .json .csv .png .md .jpg .sample .idx
+.sample .ipynb .idx .csv .pdf .md .zip .pack
+.sample .tsv .sh .txt .idx .R .png .csv .svg .md .pack
+.sample .xml .js .json .idx .png .md .pack .css .gif .ico .html
+.jpg .sample .xml .xsl .idx .pdf .png .svg .md .pack .py
+.sample .pdf .png .md
+.sample .c .JPG .idx .csv .md .pack .java .py
+.jpg .sample .js .yml .eot .json .pdf .png .idx .svg .md .scss .ttf .css .pack .woff .html
+.jpg .sample .r .txt .idx .pdf .png .md .pack .py .gif .html
+.db .sample .yml .ipynb .csv .png .Rmd .md .html
+.epub .yml .txt .pdf .css .gif .bak .bst .pack .html .bib .json .csv .png .Rmd .md .PNG .ttf .jpg .sample .js .sh .Rproj .idx .tex
+.db .pov .cfg .bat .pol .pdf .R .vgx .dat .mtg .py .gif .zip .lpy .exe .xls .pack .ini .log .hst .BMP .html .qm .ipynb .csv .png .geom .Rmd .md .ico .sample .bmtg .doc .idx .seq
+.sample .yml .idx .png .toml .md .pack
+.csl .PDF .pdf .R .gif .MD .dta .rmd .pptx .svg .pack .html .docx .odp .bib .png .ai .Rmd .md .jpg .sample .doc .Rproj .idx .tex .mp4
+.sample .md .pdf
+.eps .sample .bib .xoj .idx .png .md .tex .pack
+.sample .bib .idx .md .tex .pack .xcf
+.sample .bib .idx .png .md .tex .pack
+.jpg .sample .idx .pdf .png .md .PNG .pack
+.jpg .sample .ipynb .txt .rst .idx .png .md .pack .gif .html
+.jpg .rb .sample .lock .yml .cfg .css .js .idx .pdf .png .svg .md .pack .py .ico .html
+.sample .js .json .idx .md .pack .ts .html
+.sample .js .json .idx .md .pack .html
+.sample .xml .js .idx .md .pack .css .iml .html
+.sample .ipynb .txt .pdf .md .7z .zip
+.sample .docx .tsv .c .sh .txt .idx .md .pack .java .py
+.odt .sample .pdf .png .md .py
+.jpg .sample .git-id .idx .Rproj .pdf .png .csv .Rmd .md .tex .PNG .R .pack
+.php .jpg .WD3  .sample .js .eot .idx .pdf .png .sql .svg .md .PNG .ttf .css .gif .pack .woff .otf
+.sample .idx .R .md .pack .py
+.mako .sample .yml .css .txt .js .wsgi .env .png .csv .idx .md .sql .config .pack .py .ini .html
+.properties .jpg .sample .xml .ser .bat .pro .jar .png .md .java .gradle
+.class .sample .md .java
+.class .sample .md .java
+.properties .sample .xml .ser .bat .pro .idx .jar .png .md .pack .java .gradle
+.sample .pdf .md .html
+
+.sample .png .Rmd .md .html
+.sample .in .cs .pdf .md .out
+.ipynb  .sample .md
+.properties .sample .xml .mf .jar .md .java
+.php .sample .pl .md .py
+.jpg .sample .xml .yml .txt .json .idx .png .md .pack .html
+.jpg .sample .xml .yml .txt .json .idx .png .md .pack .html
+.jpg .sample .xml .less .JPG .yml .txt .6533553203 .json .idx .png .svg .md .pack .css .html
+.jpg .sample .xml .yml .txt .json .idx .png .md .pack .html
+.jpg .sample .xml .yml .txt .json .idx .png .jpeg .6002324823 .md .pack .6497181541 .html
+.jpg .sample .xml .yml .txt .json .idx .png .md .pack .html
+.jpg .sample .xml .yml .txt .json .idx .md .pack .html
+.jpg .sample .xml .yml .txt .json .idx .png .md .pack .html
+.jpg .sample .xml .yml .txt .json .pdf .png .idx .md .pack .html
+.sol .docx .sample .js .json .png .md .xcf
+.w .sample .jpg .c .sty .txt .sudoku .idx .png .h .md .tex .pack
+.sample .ipynb .csv .md
+.class .rb .swift .cc .c .txt .dat .h .out .map .c++ .py .gif .rkt~ .php .cpp .in .CPP .pro .exe .pack .kt .ts .html .rkt .ipynb .cs .json .csv .pl .png .md .hs .java .jpg .sample .js .sh .idx .go .scala .hpp .rs
+.sample .data-00000-of-00001 .yml .sh .txt .ipynb .idx .gz .png .meta .md .pack .py .gif .index
+.sample .txt .idx .md .pack .py
+.sample .ipynb .txt .csv .toml .md
+.sample .idx .pdf .md .pack
+.sample .txt .idx .pdf .md .pack .py
+.sample .txt .mat .m .idx .png .md .pack
+.sample .m .pdf
+.ods .wav  .sample .ipynb .idx .pdf .png .svg .md .xlsx .pack .py
+.sample .idx .jet .png .json .md .pack .java
+.jpg .sample .sty .png .md .tex
+.jpg .sample .json .csv .pdf .idx .png .md .xlsx .pack .py
+.vb .sample .jpg .idx .pdf .png .csv .json .md .xlsx .pack
+.vb .sample .jpg .xlsm .idx .pdf .png .csv .md .xlsx .pack
+.jpg .sample .example .txt .json .csv .idx .png .md .xlsx .pack .py .html
+.properties .class .sample .xml .form .yml .cfg .pptx .pdf .mf .jar .idx .md .TXT .pack .java .java~ .rs
+.sample .idx .md .pack
+.jpg .sample .docx .ipynb .idx .csv .png .md .pack .py .pyc
+.sample .docx .c .idx .pdf .pptx .md .pack .html
+.cfg .yml .txt .bat .so .zip .css .gif .py .tmx .url .mp3 .typed .in .rst .svg .glsl .dylib .pack .ini .html .pot .ogg .csv .png .md .webmanifest .ico .jpg .sample .wav .dll .sh .idx .tsx .po .mo
+.sample .ipynb .idx .pdf .png .dat .csv .md .pack .py
+.sample .ipynb .idx .pdf .png .dat .csv .md .pack .py
+.jpg .sample .xml .cfg .txt .pdf .png .csv .md .xlsx .py
+.sample .yml .ipynb .idx .csv .png .dat .pdf .md .zip .pack
+.jpg .elm .sample .lock .js .org .json .idx .png .svg .md .toml .scss .zip .pack .ico .html
+.yml .tif .pdf .map .zip .css .gif .eot .woff2 .svg .pack .html .ipynb .json .csv .png .md .ttf .woff .otf .jpg .sample .js .idx .scss .js-e
+.sample .md .pdf
+.jpg .sample .ipynb .bib .txt .idx .png .svg .md .pack .py .pyc
+.sdf .ipch .c .txt .dat .h .TXT .zip .EXE .cpp .CPP .C .suo .pack .user .DAT .JPG .vcxproj .png .filters .md .H .jpg .sample .OBJ .idx .sln
+.sample .ipynb .md .xls
+.xml .sdf .vssscc .txt .vdb3 .snk .pdb .pdf .master .sitemap .css .gif .Config .htm .vdb4 .swf .nupkg .pptx .exe .xlsx .pack .user .vsql3 .html .cshtml .asmx .cs .config .resx .png .datasvcmap .csproj .md .s3db .PNG .flv .edmx .ico .fla .jpg .sample .ashx .dll .js .sh .xap .idx .aspx .ascx .sql .XML .sln .mm .svc .asax
+.jpg .sample .JPG .psd .idx .pdf .png .ai .jpeg .md .pack .gif
+.elm .sample .json .idx .md .pack
+.jpg .sample .js .obj .idx .png .md .pack .dae .mtl .html
+.sample .c .cpp .R .md
+.jpg .sample .opml .png .m .pdf .mat .jpeg .svg .md .tex .idx .ppt .zip .gif .pack
+.sample .xml .yml .txt .idx .go .md .pack .iml
+.sample .js .pptx .idx .md .pack .yaml
+.sample .pdf .go .md
+.sample .docx .txt .idx .csv .pdf .png .pptx .md .xlsx .R .pack .thmx .r
+.sample .md .xml
+.sample .js .txt .json .idx .md .pack
+.sample .md .pdf
+.dcf .sample .js .yml .idx .R .svg .md .Rmd .pack .css .rda .Rd .yaml .html
+.sample .key .cpp .idx .pdf .png .md .tex .pack .hpp .py .zip
+.png  .sample .md
+.sample .txt .m .mat .png .pdf .idx .md .pack
+.yml .txt .bat .css .py .eot .woff2 .rst .svg .pack .html .ipynb .png .md .PNG .ttf .doctree .woff .sample .js .idx .inv .pickle
+.jpg .sample .js .bib .yml .Rproj .json .png .rds .Rmd .md .tex .idx .ttf .css .gif .pack .yaml .html
+.Rmarkdown .xml .txt .R .pdf .map .css .gif .less .eot .woff2 .svg .pack .log .yaml .html .content .bib .json .png .Rmd .md .webmanifest .ttf .woff .sketch .jpg .sample .js .lua .sh .Rproj .idx .jpeg .toml .scss .history .markdown
+.jpg .sample .n3 .js .txt .eot .json .idx .svg .md .pack .css .ttf .woff .html
+.sample .txt .pdf .png .Rmd .md
+.sample .txt .idx .png .md .pack .py
+.jpg .sample .js .json .idx .svg .md .pack .css .ico .html
+.sample .docx .pptx .pdf .md
+.sample .ipynb .idx .pdf .pptx .dat .csv .md .png .pack .py
+.odt .sample .idx .pdf .md .pack
+.php  .sample .vue .xml .example .lock .js .txt .json .config .sql .idx .md .scss .pack .css .ico
+.sample .cfg .idx .gz .md .pack .py .pyc
+.jpg .sample .js .yml .png .md .html
+.jpg .sample .md
+.sample .lock .txt .json .idx .png .svg .md .tsx .css .pack .ts .ico .html
+.sample .ipynb .idx .png .md .pack
+.sample .idx .md .pack .py
+.jpg .sample .ipynb .yml .txt .png .md
+.sample .js .idx .pdf .json .md .xlsx .pack
+.db .xml .yml .txt .pdf .R .css .rdx .gif .dcf .nbib .bed .svg .xlsx .xls .pack .Rpres .aux .log .yaml .html .lock .sav .data .bib .rdb .json .csv .png .rds .Rmd .md .gz .ttf .rda .woff .jpg .ris .sample .js .Rproj .idx .jpeg .tex
+.hex .txt .pdf .pxm .plist .map .css .py .gif .drx .mp3 .cur .eot .rst .COPYING .svg .graffle .pack .log .html .docx .lock .ogg .json .png .md .ttf .doctree .woff .snagproj .ico .pyc .jpg .wav .snag .sample .js .idx .inv .jpeg .pickle .css_t .mp4 .tiff .conf
+.sample .cs .json .pdf .csproj .md
+.sample .yml .bib .md
+.keystore .sample .properties .txt .pptx .pdf .wmf .png .svg .md .idx .json .pack .truststore .vsdx .yaml
+.sample .md .pdf
+.yml .pdf .R .css .gif .Rd .svg .xls .pack .Rpres .html .JPG .bib .json .csv .png .Rmd .md .rda .lyx .jpg .sample .sh .RData .Rproj .idx .tex
+.psd1  .sample .PS1 .pdf .psm1 .ps1 .md
+.xml .yml .txt .bat .pdf .zip .py .r .css .ppt .gif .mp3 .eps .in .vigenere .rst .db3 .xlsx .graph .pack .xls .yaml .html .data .ipynb .JPG .cs .json .csv .png .gv .csproj .md .config .PNG .7z .bin .ico .jpg .sample .wav .crypted .js .sh .enc .idx .tex .sln .mp4 .conf
+.jpg .sample .yml .in .txt .bat .css .rst .ipynb .pdf .png .idx .pack .py .ico
+.sample .Rproj .Rmd .md
+.jpg .sample .txt .erl .md
+.rld .rb .jbuilder .xml .class .ru .yml .install .txt .pdb .pdf .prj .mf .h .zip .css .py .gif .r .example .ply .cpp .eot .woff2 .svg .mlappinstall .exe .xls .pack .xlsx .ini .log .html .fasta .jfif .mlapp .lock .erb .json .config .png .csv .gz .md .PNG .ttf .java .woff .ico .jpg .vb .sample .fzz .properties .js .enc .sh .hdf5 .RData .sqlite .m .idx .scss .ctf .ino
+.sample .txt .json .gz .idx .md .pack .py .whl
+.rb .xml .yml .txt .pdf .slim .zip .css .gif .upstream .gemspec .adoc .eot .gsheet .woff2 .svg .gdraw .jade .pack .html .docx .lock .json .png .md .ttf .java .woff .jpg .sample .js .idx .jpeg .scss .ino
+.sample .txt .rmd .Rproj .csv .R .pdf .Rmd .rda .html
+.sample .txt .md
+.sample .docx .asv .txt .m .pdf .idx .md .xlsx .pack .p
+.sample .swift .xcworkspacedata .xcbkptlist .scn .storyboard .json .plist .png .idx .meta .md .pbxproj .pack
+.sample .sh .hoc .idx .pdf .mod .md .ps1 .zip .py .ses .pack .html
+.xacro .xml .sdf .srv .cc .txt .srdf .h .zip .py .test .xcf .world .odg .crx .cpp .rst .template .bag .pack .gdb .yaml .config .pgm .png .hh .md .msg .urdf .pyc .sample .sh .dox .bash .idx .rviz .dae .stl .action .launch
+.sample .ipynb .pdf .md
+.jpg .sample .ckpt .wav .ipynb .txt .bat .idx .png .pkl .md .PNG .pack .py
+.xml .yml .txt .bat .icns .plist .css .mp3 .svg .pack .fxml .html .png .md .ttf .java .ico .properties .sample .js .idx .sql
+.sample .xml .csv .md .html
+.jpg .sample .ipynb .js .yml .eot .idx .csv .png .jpeg .json .md .scss .pack .css .ttf .woff .html
+.sample .R .pdf .md
+.sample .ipynb .idx .pdf .png .md .PNG .pack
+.sample .txt .rst .py
+.sample .pdf .png .md .py .html
+.jpg .sample .JPG .yml .txt .idx .csv .png .pdf .md .PNG .pack .py .whl
+.sample .ipynb .png .md
+.sample .lock .yml .js .sh .eot .cast .json .idx .md .scss .pack .css .ttf .woff .html
+.sample .lock .yml .js .eot .json .idx .png .md .scss .pack .css .ttf .woff .html
+.jpg .sample .yml .txt .json .pdf .png .jpeg .go .md .csv .idx .pack .gohtml .conf
+.sample .png .md .java
+.sample .md
+.dockerfile .sample .yml .idx .sql .md .pack .html
+.sample .idx .pdf .md .pack .py
+.jpg .sample .docx .js .cpp .txt .css .json .pptx .png .idx .svg .md .cmd .PNG .zip .pack
+.class .xml .c .txt .pdf .h .css .py .php .cpp .pack .html .ipynb .json .csv .md .java .sample .asm .idx
+.wav .jpg .sample .yml .ipynb .txt .png .md
+.sample .ipynb .idx .png .md .pack
+.wav .sample .sty .ipynb .yml .txt .sh .bib .npz .idx .pdf .png .md .tex .pack .py
+.sample .txt .idx .R .Rmd .md .pack
+.sample .txt .idx .md .pack .java
+.sample .lock .js .txt .json .pdf .png .md .gif .log .html
+.yml .css .py .cabal .hi .o .eot .svg .pack .yaml .html .lock .idr .png .md .hs .ttf .woff .sample .idx .markdown .ibc
+.jpg .sample .idx .pdf .png .R .Rmd .tex .pack .css .html
+.sample .init .yml .vim .idx .md .pack
+.sample .rmd .idx .csv .pdf .sql .Rmd .md .pack
+.sample .docx .js .cs .config .json .png .idx .csproj .md .sln .pack .gif .ts .html
+.jpg .sample .yml .sh .js .json .idx .png .svg .md .pack .css .gif .html
+.sample .pptm .txt .gif .pptx .R .csv .pdf .png .md .xlsx .Rproj .zip .idx .r .pack .shp
+.sample .yml .bib .idx .pdf .md .graffle .tex .pack
+.sample .key .idx .pdf .md .graffle .pack
+.sample .bib .pdf .md .graffle .tex
+.jpg .sample .JPG .pptx .pdf .png .jpeg .svg .md .idx .pack .zip
+.sample .cpp .idx .pdf .md .tex .pack
+.sample .mp4 .ipynb .txt .idx .png .svg .md .pack .py
+.sample .bib .sh .mat .pdf .png .md .tex .py
+.sample .md
+.jpg .sample .xml .yml .ipynb .txt .json .idx .png .pptx .md .pack .py
+.properties .sample .docx .xml .jpg .bat .pro .idx .pdf .jar .png .md .PNG .pack .java .gradle
+.sdf .ipch .pdb .txt .pdf .h .tlog .lastbuildstate .opendb .cpp .ilk .idb .exe .pack .user .log .vcxproj .filters .md .sample .obj .pch .idx .sln
+.jpg .sample .pde .md .gif
+.sample .yml .js .qml .idx .pdf .md .pack .css
+.sample .yml .js .idx .md .scss .pack
+.sample .sh .idx .md .pack .py
+.sample .json .ps1 .md
+.jpg .sample .yml .js .idx .pdf .png .md .pack .css .ico .html
+.jpg .sample .idx .pdf .md .pack .gif
+.jpg .sample .idx .pdf .md .pack
+.jpg .sample .idx .pdf .md .pack
+.jpg .sample .xml .yml .js .ipynb .txt .idx .pdf .png .md .pack .css .gif .ico .html
+.yml .txt .pdf .zip .pkl .py .en .es .pack .DS_Store .docx .ipynb .weights .json .png .md .npy .pyc .sample .sh .idx .pickle .conll
+.sample .xml .all .yml .sh .txt .js .json .env .idx .md .other .pack .py .log .yaml .html
+.sample .c .idx .md .tex .pack
+.sample .txt .md
+.sample .pdf .md .tex
+.sample .xml .ipynb .txt .json .pdf .png .csv .mat .md .m .idx .pack .py .gif
+.sample .bib .pdf .md .tex .py .xmp
+.jpg .sol .sample .sh .idx .pdf .png .md .pack .py
+.sample .txt .json .pdf .idx .md .pack .py
+.sample .ipynb .pdf .md
+.jpg .sample .tsv .Rpres .txt .Rproj .R .csv .pdf .Rmd .md .tex .idx .zip .pack .png .Rnw .html
+ a modern royalty-free patent license grant
+.sample .js .org .bib .json .idx .md .pack
+.odg .jpg  .sample .org .idx .png .pack .html
+.sample .org .drawio .md
+.org .sample
+.c .txt .cls .pdf .crypt .out .h .zip .py .decrypt .MD .eps .lisp .filt .svg .l .backup .pack .aux .ini .log .html .te .cmo .y .sty .JPG .bib .gz .pgm .png .pl .md .calcs .output .cmi .pyc .jpg .sample .sh .idx .go .ml .tex
+.sample .idx .pdf .pack
+.sample .xml .node_map .txt .z02 .jar .png .java .md .graph .zip .z03 .z01
+.sample .yml .ipynb .txt .idx .pdf .png .md .pack .py
+.php .sample .jpg .lock .js .json .csv .idx .png .svg .md .pack .css .tsx .ts .ico .html
+.sample .js .yml .Jmd .ipynb .idx .csv .png .svg .toml .md .map .scss .css .pack .html
+.sample .hex .js .idx .png .md .pack .css .ico .html
+.sample .txt .idx .png .dat .svg .md .pack .jl
+.sample .m .pdf .dat .md
+.sample .ipynb .txt .idx .png .dat .svg .md .pack .py
+.sample .yml .css .txt .js .idx .csv .R .pdf .Rmd .md .png .pack .Rpres .js-e .woff .otf .html
+.sample .yml .txt .idx .R .pdf .png .Rmd .md .PNG .pack
+.sample .docx .yml .md
+.sample .swift .xcworkspacedata .storyboard .xib .json .plist .pdf .png .idx .md .xcplayground .pbxproj .pack .sks
+.jpg .sample .js .png .md .css .html
+.jpg .db .tsv .sample .ipynb .idx .R .png .jpeg .csv .md .xlsx .tex .pack .gif .html
+.xml .cfg .yml .txt .bat .css .py .gif .rst .svg .pack .yaml .html .json .png .md .ttf .ico .otf .jpg .sample .vtt .js .sh .enc .idx .jpeg .scss .po .conf
+.sample .yml .txt .pptx .pdf .slurm .png .Rmd .md .csv .R .idx .pack .html
+.yml .txt .pdf .R .pptx .xlsx .pack .html .fasta .docx .sqlite3 .csv .png .Rmd .md .vcf .sample .tsv .gtf .sh .idx .label
+.sample .yml .txt .idx .pdf .png .slurm .csv .md .xlsx .xls .pack .R .Rmd .Rproj .html .biom
+.sample .docx .yml .sh .txt .gp .idx .pdf .png .bed .Rmd .md .csv .xls .OLD .R .pack .log .html
+.sample .docx .sh .txt .pptx .R .pdf .csv .idx .md .xls .pack
+.sample .yml .txt .idx .pdf .png .csv .R .md .xlsx .xls .pack .Rmd .biom .Rproj .html
+.yml .css .eot .svg .pack .html .lock .webm .png .md .ttf .woff .ico .otf .jpg .sample .js .idx .scss .markdown
+.txt .R .map .css .rdx .gif .less .swf .eot .woff2 .svg .pack .rtf .yaml .html .rdb .json .png .Rmd .md .ttf .woff .jpg .sample .js .RData .Rproj .idx .jpeg .scss
+.key .txt .R .pdf .map .css .rdx .gif .less .swf .eot .woff2 .svg .pack .Rpres .yaml .html .docx .rdb .csv .png .Rmd .md .ttf .woff .jpg .sample .js .RData .Rproj .idx .scss
+.key .txt .R .map .css .rdx .gif .less .swf .eot .woff2 .svg .xlsx .pack .yaml .html .rdb .webp .csv .rds .png .Rmd .md .ttf .woff .jpg .sample .js .RData .Rproj .idx .jpeg .scss
+.stackdump .txt .pdf .tex~ .gif .eps .tcp .svg .pdf_tex .nb .pack .aux .log .ggb .prc .sty .gz .png .md .pdf_t .ico .fig .jpg .sample .synctex .auxlock .m .idx .tex .asy .logg
+.sample .ipynb .sh .cwl .links .json .idx .vcf .pack .bam_CNVs .conf
+.sample .ipynb .fa .json .idx .bed .md .pack .py
+.sample .docx .js .txt .json .idx .png .md .pack .css .handlebars .html
+.sample .example .sh .txt .json .idx .png .md .pack .py
+.gplt .txt .unv .pdf .dat .plt .py .foam .odg .o .pptx .C .pack .avi .odt .org .water .gz .csv .hdf .png .md .H .msh .old .sample .csv-0 .sh .idx .liquid .mp4 .stl .brep .dep
+.bmp .db .xml .cfg .Annual XML .txt .bat .pdf .zip .css .gradle .gif .htm .bs .media .prefs .pro .pptx .svg .pack .rtf .html .docx .ser .json .jar .png .md .java .jpg .properties .sample .jsp .js .sqlite .idx .jpeg
+.xml .c .yml .txt .bat .pdf .css .php .phar .pack .html .json .png .md .ico .iml .sample .js .sh .idx .sql
+.jpg .sample .docx .css .idx .png .md .PNG .zip .pack .html
+.jpg .sample .png .jpeg .md
+.sample .md
+.sample .yml .idx .pdf .png .md .pack
+.sample .ipynb .txt .md
+.set .sample .bat .csv .mq4 .md
+.properties .class .sample .xml .txt .idx .mf .jar .md .pack .java
+.sample .js .yml .json .idx .svg .md .scss .pack
+.jpg .php .docx .sample .js .idx .pdf .png .md .zip .css .gif .pack .html
+.R .pdf .css .Rd .Rdata .pptx .xlsx .pack .Rpres .json .csv .png .rds .Rmd .md .PNG .rda .jpg .sample .idx .Rproj
+.rb .xml .yml .txt .bat .css .gradle .groovy .pack .html .lock .json .csv .png .jar .md .properties .sample .lua .sh .js .idx .conf
+.yml .nhr .txt .bat .pdb .pdf .css .py .gif .fna .psq .rst .pptx .gbk .nin .pack .rtf .html .fasta .pin .tab .ipynb .fa .faa .phr .csv .png .Rmd .md .gbff .jpg .sample .sh .idx .nsq .jpeg
+.yml .txt .pdf .R .py .fna .psq .pptx .gbk .pack .fasta .pin .gff .crunch .tab .ipynb .faa .phr .ffn .png .jar .md .jpg .sample .sh .idx
+.yml .txt .tif .pdf .prj .gif .svg .pack .html .shx .tab .ipynb .csv .png .grd .md .jpg .sample .idx .jpeg .tex .shp .dbf
+.yml .txt .pdf .py .fna .psq .gbk .pack .html .pin .fasta .tab .ipynb .fa .I60 .faa .phr .png .md .jpg .sample .sh .idx .tex
+.yml .txt .pdf .py .fna .psq .pptx .bed .gbk .dna .xls .pack .pin .gff .tab .ipynb .genome .faa .phr .png .md .gbff .jpg .sample .sh .idx .tex
+.yml .nhr .txt .pdb .pdf .css .py .gif .fna .psq .pptx .gbk .nin .pack .rtf .html .fasta .pin .tab .ipynb .fa .faa .phr .csv .png .Rmd .md .gbff .jpg .sample .sh .idx .nsq .jpeg
+.aln .pdf .py .fna .psq .raw .pack .pin .fasta .gff .tab .sty .ipynb .faa .ffn .phr .png .md .jpg .sample .idx .jpeg .tex
+.jpg .sample .embl .tab .fna .yml .ipynb .sty .idx .R .png .gbk .pdf .md .dna .tex .pack .fasta
+.xml .txt .css .py .prefs .svg .pack .ini .log .html .sqlite3 .json .png .md .java .ico .iml .otf .pyc .jpg .sample .js .pdn .idx .version .MF
+.class .fdx .fdt .xml .db .rss .txt .state .pdf .mf .dat .zip .frq .prx .xmi .gen .tii .setup .prefs .pack .cfe .ini .registry .index .log .fnm .lock .tis .nrm .config .json .dict .cfs .md .resources .java .tip .iml .tree .properties .sample .doc .idx .si .tim .history .version .launch
+.sample .xml .txt .idx .pdf .md .pack .py .iml
+.sample .idx .json .Rproj .csv .snapshot .png .md .error .rdf .pper .R .Rmd .pack .metadata
+.jpg .sample .md
+.sample .pdf .go .md
+.xml .fdb_latexmk .txt .kfi .pdf .R .dat .out .zip .bak .snm .eps .fls .dta .xlsx .xls .vrb .pack .aux .toc .log .html .docx .sav .cod .bib .gz .csv .png .md .7z .rar .bin .fig .bbl .jpg .sample .synctex .part_38 .nav .mat .m .idx .mod .tex .blg
+.txt .pdf .R .out .zip .snm .dta .Rdata .xlsx .xls .pack .aux .toc .log .wf1 .gz .csv .png .md .bbl .jpg .sample .synctex .des .ZIP .nav .idx .tex .blg
+.jpg .sample .gz .pdf .pptx .idx .md .out .log .tex .pack .aux .toc .pdfsync
+.txt .pdf .out .snm .dta .Rdata .rmd .xlsx .xls .vrb .pack .aux .toc .log .html .docx .gz .csv .rds .Rmd .md .bbl .jpg .sample .RData .doc .nav .idx .jpeg .tex .blg
+.sample .html?Do=weeklyLLCXML&id=1 .idx .md .nb .xls .pack
+.jpg .sample .data .ipynb .txt .idx .csv .png .jpeg .md .pack
+.jpg .bmp .sample .idx .pdf .png .md .tex .PNG .pack .do
+.jpg .sample .yml .idx .png .svg .md .pack .html
+.jpg .sample .yml .idx .png .svg .md .pack .html
+.sample .md .png
+.sample .md .png
+.jpg .sample .yml .png .svg .md .html
+.jpg .sample .yml .idx .png .svg .md .pack .html
+.sample .md
+.sample .md
+.jpg .sample .yml .idx .png .svg .md .pack .html
+.jpg .sample .yml .png .svg .md .html
+.sample .md
+.sample .md
+.jpg .sample .yml .idx .png .svg .md .pack .html
+.sample .idx .png .md .pack
+.jpg .sample .yml .idx .png .svg .md .pack .html
+.sample .md
+.sample .md
+.sample .md
+.sample .md .png
+.sample .md
+.jpg .sample .yml .idx .png .svg .md .pack .html
+.sample .md
+.sample .md
+.jpg .sample .yml .idx .png .svg .md .pack .html
+.jpg .sample .yml .png .svg .md .html
+.jpg .sample .yml .png .svg .md .html
+.jpg .sample .yml .png .svg .md .html
+.sample .md
+.jpg .sample .yml .png .svg .md .html
+.jpg .sample .yml .png .svg .md .html
+.sample .yml .sh .txt .idx .R .csv .png .md .pack .css .html
+.sample .yml .image .txt .geojson .js .json .idx .png .svg .md .pack .gif .html
+.jpg .sample .txt .idx .go .md .pack .slide
+.xml .txt .plist .map .css .gif .xaml .keystore .axml .pack .html .cshtml .cs .json .png .csproj .md .PNG .ttf .ico .sample .js .storyboard .idx .sln
+.sample .Rproj .csv .pdf .idx .Rmd .md .jpeg .pack .html
+.xml .txt .tif .prj .map .zip .css .pack .shx .html .png .Rmd .md .jpg .sample .sbn .sbx .js .Rproj .idx .shp .dbf
+.yml .txt .bat .pdf .h .py .cpp .pptx .svg .props .pack .vcxproj .json .config .png .filters .md .cmake .sample .sh .idx .sln .scss .hpp
+.sample .xml .idx .md .pack
+.sample .md
+.jsx .sample .js .CODE .css .eot .woff2 .json .idx .svg .md .zip .pack .gif .ttf .woff .ico .html
+.jpg .npy .sample .lay .odp .ipynb .sh .txt .idx .csv .png .pdf .svg .md .pgm .pack .py .yaml
+.xml .pdb .txt .manifest .info .meta .res .zip .font .prefab .unity .asset .prefs .dwlt .exe .pack .mdb .ini .stamp .log .anim .cs .controller .config .png .md .fbx .ttf .bin .ico .sample .dll .cache .mat .idx .pri
+.dcf .jpg .sample .Rproj .pdf .png .idx .ps1 .md .Rda .pack .Rpres .gif .html
+.sample .tikz .ipynb .org .yml .idx .svg .md .tex .pack .html
+.sample .md
+.c .yml .txt .bat .pyx .css .py .pptx .svg .xlsx .pack .ui .html .docx .bitmap .ipynb .gz .csv .png .md .PNG .jpg .wav .sample .js .sh .idx .mp4
+.db .xml .yml .txt .pos .bat .neg .tif .pdf .db-shm .dat .zip .pkl .gif .py .mp3 .eps .tag .user_original .svg .xlsx .xls .graffle .user .ini .pack .html .c45-names .data .ipynb .JPG .item .json .csv .png .ps .md .PNG .db-wal .rda .names .iml .fig .jpg .sample .tsv .mat .idx .jpeg .pickle .tex .tiff .dot
+.sample .md .pdf
+.sample .pptx .pdf .md
+.sample .pptx .pdf .md
+.yml  .sample .md
+.jpg .sample .mp3 .aiff .js .md .otf .html
+.gif  .sample .md
+.go .sample .md
+.jpg .sample .xml .idx .DotSettings .cs .json .m .prj .png .csproj .md .sln .gz .pdf .tex .aux .xaml .pack
+.man .c .yml .options .txt .bat .ac .pdf .diff .h .f90 .py .pkl .f90~ .f03 .hpp .in .cpp .raw .pptx .svg .pack .csv .png .pl .pat .md .PNG .lic .cmake .f95 .sample .f .sh .glade .am .idx .tex .lis .tiff
+.sample .ipynb .csv .png .md
+.sample .ipynb .txt .gz .pdf .png .dat .csv .md .pickle .idx .pack .npy .log
