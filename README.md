@@ -16,15 +16,3 @@ Information of these repos and forks were used to evaluate to which extend proce
 - PyGithub: https://pygithub.readthedocs.io/en/latest/
 
 
-## Contributer
-
-- Nadine Schröder: Analysis & Evaluation
-- Dominik Dyba: Crawling
-- Peter Pfänder: Evaluation
-
-Learning Lab, University Duisburg-Essen
-
-## License
-
-This repository and content is licensed under [Creative Commons Attribution 4.0 (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
-
