@@ -28,7 +28,7 @@ Repositories with following topics are part of the sample:
 - Courses / MOOCs
 - Textbooks
 
-![Topics](../topics.png)
+![Topics](./topics.png)
 
 
 ### Types of materials and file formats
@@ -37,9 +37,9 @@ Repositories with following topics are part of the sample:
 - 33% Textfiles 					-> open file format, display of changes possible
 - 20% Documents and Presentations	-> mostly proprietary file formats
 
-![Types of materials](../materialtypes.png)
+![Types of materials](./materialtypes.png)
 
-![Filetypes](../filetypes.png)
+![Filetypes](./filetypes.png)
 
 
 ### Contributer
@@ -48,7 +48,7 @@ Repositories with following topics are part of the sample:
 - 35% cooperative usage with two or more contributers
 - 3,5 contributer per repository on average
 
-![Contributer](../contributer.png)
+![Contributer](./contributer.png)
 
 
 ### Commits
@@ -57,7 +57,7 @@ Repositories with following topics are part of the sample:
 - 113 commits on average
 - Changes and edits are made
 
-![Commits](../commits.png)
+![Commits](./commits.png)
 
 
 ### Branch
@@ -74,7 +74,7 @@ Repositories with following topics are part of the sample:
 - Reuse takes place but to a small extent
 - While there are many repos with few forks, there are also few repos with many forks
 
-![Forks](../forks.png)
+![Forks](./forks.png)
 
 
 ### Forked Repos: Commits ahead
@@ -83,7 +83,7 @@ Repositories with following topics are part of the sample:
 - 88% of forked repositories no commits
 - Forks are used predominantly as a copy of contents than further developments are made
 
-![Commits ahead](../commitsahead.png)
+![Commits ahead](./commitsahead.png)
 
 
 ### Pull requests (external)
@@ -91,4 +91,4 @@ Repositories with following topics are part of the sample:
 - 3% of changes are reported back to the original repository by the editors of forked repositories
 - No exchange between Forks and Originals
 
-!Pull Reqeusts](../pullrequests.png)
+![Pull Reqeusts](./pullrequests.png)
